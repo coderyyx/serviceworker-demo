@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.135ed5f4.js",
-    "static/js/377.d46fc9d8.chunk.js": "/static/js/377.d46fc9d8.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.135ed5f4.js.map": "/static/js/main.135ed5f4.js.map",
-    "377.d46fc9d8.chunk.js.map": "/static/js/377.d46fc9d8.chunk.js.map"
+    "main.css": "/serviceworker-demo/static/css/main.073c9b0a.css",
+    "main.js": "/serviceworker-demo/static/js/main.bd6edd47.js",
+    "static/js/377.d46fc9d8.chunk.js": "/serviceworker-demo/static/js/377.d46fc9d8.chunk.js",
+    "service-worker.js": "/serviceworker-demo/service-worker.js",
+    "static/media/logo.svg": "/serviceworker-demo/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/serviceworker-demo/index.html",
+    "main.073c9b0a.css.map": "/serviceworker-demo/static/css/main.073c9b0a.css.map",
+    "main.bd6edd47.js.map": "/serviceworker-demo/static/js/main.bd6edd47.js.map",
+    "377.d46fc9d8.chunk.js.map": "/serviceworker-demo/static/js/377.d46fc9d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.135ed5f4.js"
+    "static/js/main.bd6edd47.js"
   ]
 }
