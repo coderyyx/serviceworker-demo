@@ -13,5 +13,5 @@
 
 3、 npm run serviceworker
 
-4、open browser at localhost:9000/
+4、 open browser at localhost:9000/
 ```
